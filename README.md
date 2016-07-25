@@ -1,4 +1,4 @@
-# Stock-Hawk
+# Stock Hawk
 
 This app lets you see the current stock prices of companies and the prices over time in a graph.
 
